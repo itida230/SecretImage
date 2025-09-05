@@ -1,9 +1,7 @@
-Image Steganography Tool
-Description
 
 A Python tool that hides ROT13-encrypted messages inside PNG images using passcode protection and pixel-level steganography. Messages can be embedded and extracted securely without visually altering the image.
 
-Features
+Features:-
 
 Embed text messages inside PNG images using LSB steganography.
 
